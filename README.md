@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harsh Joshi!
+# 👋 Hi, I'm Harsh Jayrambhai Joshi!
 
 ### 💻 PHP & Machine Learning Developer | Prompt Engineer | Digital Marketing Enthusiast
 
